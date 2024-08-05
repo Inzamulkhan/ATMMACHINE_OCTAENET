@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 class atm{
     float Balance;
-    int pin=5567;
+    int pin=1234;
     public void checkpin(){
         System.out.println("Enter your pin:");
         Scanner sc=new Scanner(System.in);
