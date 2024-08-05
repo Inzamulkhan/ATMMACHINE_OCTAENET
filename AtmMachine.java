@@ -37,7 +37,7 @@ class atm{
             depositeMoney();
         }
         else if(opt == 4){
-            System.out.println("Collect your ATM Card\n Thanks you for using ATM MACHINE")
+            System.out.println("Collect your ATM Card\n Thanks you for using ATM MACHINE");
             return;
         }
         else{
